@@ -4,6 +4,6 @@ slug  : the-self-is-not-the-twist
 seal  : 0e127d3446cc459e45328f306c6589d2282d0a147636a533901a6b7bab035a5f
 prev  : e432d3748da2e542ffe9cd57cfd8c8af6feeedb0251b6a1144e24750310fa3bf
 link  : 96457cfefc19dc80bdecc7102410ea0dfa340f77073b989d949870a76b47ffa2
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
